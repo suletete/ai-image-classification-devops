@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Classification Tool</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+<div class="container">
+    <h1>Image Classification Tool</h1>
+    <p>Upload a PNG or JPEG image to classify it using a pre-trained ResNet model.</p>
+
+    <form id="uploadForm" enctype="multipart/form-data">
+        <input type="file" name="image" accept="image/png, image/jpeg">
+        <button type="submit">Submit</button>
+    </form>
+
+    <p id="response"></p>
+</div>
+
+<footer>
+    By Suleiman Abdulkadir | Fellow ID: FE/23/22599501 | Cohort 3
+</footer>
+
+<script>
+    document.getElementById('uploadForm').addEventListener('submit', function (e) {
+        e.preventDefault();
+        var formData = new FormData(this);
+        fetch('/upload', {
+            method: 'POST',
+            body: formData
+        }).then(response => response.text()).then(data => {
+            document.getElementById('response').innerText = data;
+        }).catch(err => {
+            console.error(err);
+        });
+    });
+</script>
+</body>
+</html>
