@@ -39,7 +39,7 @@ Follow these steps to run the application locally:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/sulete/ai-image-classification.git
+   git clone https://github.com/suletete/ai-image-classification.git
    cd ai-image-classification
 
 
