@@ -1,20 +1,21 @@
 ## 3MTT Showcase Update
 
-I recently shared my **#3MTT** showcase on LinkedIn, but unfortunately, my account was restricted shortly after posting.  
-Please don’t be alarmed — I had to fill out the 3MTT form **twice**, and that might have triggered the restriction.  
-I’ve already submitted the appeal and I’m hoping my account will be restored soon.
+I recently shared my **#3MTT** showcase on LinkedIn. Shortly after posting, my account was temporarily restricted — likely because I had to fill out the 3MTT form **twice**, which may have triggered an automatic review.  
+
+I'm happy to share that **my LinkedIn account has now been restored**!
 
 ---
 
-### 🎥 Watch on YouTube  
-[https://youtu.be/1vF65j13GsA](https://youtu.be/1vF65j13GsA)
 
-### 🔗 View LinkedIn Post (once account is restored)  
+###  View LinkedIn Post  
 [https://www.linkedin.com/posts/suleiman-abdulkadir-10067b365_3mttlearningcommunity-my3mtt-3mttnigeria-activity-7328860167016501251-dJPR](https://www.linkedin.com/posts/suleiman-abdulkadir-10067b365_3mttlearningcommunity-my3mtt-3mttnigeria-activity-7328860167016501251-dJPR)
 
+###  Watch on YouTube  
+[https://youtu.be/oM7YZ6mEHHE](https://youtu.be/oM7YZ6mEHHE)
+
 ---
 
-**Thanks for your understanding and support!**
+**Thanks for your support and encouragement!**
 
 ---
 
